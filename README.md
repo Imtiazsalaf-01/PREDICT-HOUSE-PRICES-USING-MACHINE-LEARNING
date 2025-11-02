@@ -41,7 +41,7 @@ The "House Price Prediction" project aims to develop a model that can accurately
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `gh repo clone MYoussef885/House_Price_Prediction`
+1. Clone the repository: `https://github.com/Imtiazsalaf-01/PREDICT-HOUSE-PRICES-USING-MACHINE-LEARNING.git`
 2. Install the required libraries: `If you're using Google Colab, you don't need to pip install. Just follow the importing the dependencies section.`
 3. Launch Google Colab: `https://colab.research.google.com/`
 4. Open the `House_Price_Prediction.ipynb` file and run the notebook cells sequentially.
