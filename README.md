@@ -10,7 +10,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1200/1*3Psu7nDr2LvhWH4R6-Tqeg.jpeg" style="max-width: 100%; height: auto; width: 400px;">
 </p>
 
-<h1 align="center"> 📊  PREDICT HOUSE PRICES USING MACHINE LEARNING  📈 </h2>
+<h1 align="center"> 📊 PREDICT HOUSE PRICES USING MACHINE LEARNING 📈 </h2>
 <p align="center">
   <b>Internship Project for <a href="https://we-intern.com/">WeIntern Pvt Ltd</a></b><br>
 
